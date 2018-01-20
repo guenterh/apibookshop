@@ -1,0 +1,1 @@
+https://www.codereviewvideos.com/course/fosuser-fosrest-lexikjwt-user-login-registration-api/video/setup-behat
